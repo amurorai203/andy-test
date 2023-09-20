@@ -1,2 +1,4 @@
 1) new
 1) commit
+2) edit
+2) pull request
